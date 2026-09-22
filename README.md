@@ -88,7 +88,7 @@ O fluxo de trabalho do Hestia AI foi desenhado para ser intuitivo, determinísti
 
 ### Como Instalar
 1. Acesse a aba **[Releases](https://github.com/t4rcisio/hestia_app/releases)** deste repositório.
-2. Baixe o instalador mais recente: `Hestia_AI_Instalador_v0.6.0.exe`.
+2. Baixe o instalador mais recente: `Hestia_AI_Instalador_v0.7.0.exe`.
 3. Execute o instalador e siga o assistente passo a passo na tela.
 4. Ao concluir, o ícone do **Hestia AI** estará disponível em sua Área de Trabalho e no Menu Iniciar.
 
